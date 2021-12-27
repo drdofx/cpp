@@ -1,2 +1,2 @@
 # cpp
-Random cpp files for uni course, CP, etc.
+Random cpp files for university courses, competitive programming, learning DSA, and etc.
